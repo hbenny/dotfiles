@@ -37,4 +37,4 @@ set hlsearch
 
 let NERDTreeDirArrows = 0
 
-hi LineNr guifg=#50505 guibg=Black
+hi LineNr guifg=#505050 guibg=Black
